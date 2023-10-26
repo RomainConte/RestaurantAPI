@@ -29,7 +29,7 @@ npm install
 
 -------------
 
-Create a MySQL database for the project and configure connection settings in the config.js file.
+Create a MySQL database for the project and configure connection settings in the index.js file at line 5.
 
 -------------
 
